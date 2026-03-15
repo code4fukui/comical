@@ -1,5 +1,7 @@
 # comical
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A BINGO game about the members of "Comical Youth Fukui" (@comicalyouth), an Instagram community in Fukui, Japan.
 
 ## Demo
