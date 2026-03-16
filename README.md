@@ -17,4 +17,4 @@ A BINGO game about the members of "Comical Youth Fukui" (@comicalyouth), an Inst
 - [@comicalyouth on Instagram](https://www.instagram.com/comicalyouth/)
 
 ## License
-MIT
+MIT License
